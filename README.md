@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Awesomeninja-01
-- 👀 I’m interested in basic stuff (python)
+- 👀 I’m interested in doing basic stuff (python)
 - 🌱 I’m currently learning python
 - 📫 How to reach me-(that's the neat part you dont)
 
